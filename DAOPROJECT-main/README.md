@@ -58,7 +58,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new pull request.
-
-## Contact
-
-For questions or inquiries, please contact [Madhav Vijayvargiya](mailto:vijaywargiyamadhav@gmail.com).
